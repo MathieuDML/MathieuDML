@@ -25,7 +25,7 @@
 
 * 🌐 Python, Django, JavaScript, Html, css
 * 🕹️ Cinema 4D, Blender, Solidworks
-* 🎨 Affinity Designer, Creative cloud
+* 🎨 Creative cloud
 
 ### What I'm doing recently
 
