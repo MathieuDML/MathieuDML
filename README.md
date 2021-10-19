@@ -1,7 +1,7 @@
 <p align="center">
   <img src="header.png"></p>
 
-<h3 align="center"><b><a href="https://mathieudamotalongo.me/">🏠 Portfolio</a></b> • <b><a href="https://www.behance.net/Mathieu_DML">📰 Behance</a></b> • <b><a href="https://www.linkedin.com/in/mathieu-da-mota-longo/">👔 LinkedIn</a></b></h3>
+<h3 align="center"><b><a href="https://mathieudamotalongo.fr/">🏠 Portfolio</a></b> • <b><a href="https://www.behance.net/Mathieu_DML">📰 Behance</a></b> • <b><a href="https://www.linkedin.com/in/mathieu-da-mota-longo/">👔 LinkedIn</a></b></h3>
 
 
 ### About me
@@ -29,7 +29,7 @@
 ### What I'm doing recently
 
 * 📚 Study **programming language** in python, javascript, and html etc ...
-* 🕹️ Consolidate **development skills** to refine my <a href="https://mathieudamotalongo.me/">🏠 Portfolio</a>
+* 🕹️ Consolidate **development skills** to refine my <a href="https://mathieudamotalongo.fr/">🏠 Portfolio</a>
 * 🌐 Carry out personal projects for the **creation of an application** under ios
 
 ### My passions
