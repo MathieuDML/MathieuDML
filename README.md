@@ -14,21 +14,21 @@
 
 ### It's me
 
-* 🎓 preparation of 2 years of **IT training**, bts diploma in IT services to organizations in software solutions and business applications.
-* 🏢 Young bachelor in STI2D **science and technology of industry and sustainable development**.
-* 🖥 Currently in an IT and telecom service company, I work as an IT and telecom technician.
-* 💻 I love everything **web design and development**
-* 🚀 Thanks to my work-study program in my company, I acquired **network skills**
+* 🎓Preparation of a Bac+3 license, **Advanced level mobile web developer** - ESIEE-IT / CODING FACTORY.
+* 📚 Bac+2 BTS IT **services to organizations in software solutions and business applications**, in training - ESIEE-IT.
+* 📖 Bachelor in **STI2D science and technology of industry and sustainable development** - Lycée Jean Perrin.
+* 🚀 Currently alternating in a computer and telecom services company, as a computer and telecom technician.
+* 💻 I love all the **design and development**.
 
 ### I like to work with
 
-* 🌐 Python, Django, JavaScript, Html, css
-* 🕹️ Cinema 4D, Blender, Solidworks
-* 🎨 Creative cloud
+* 🌐 Python, Django, JavaScript, VueJS
+* 🕹️ Cinéma 4D, Blender, Solidworks
+* 🎨 Suite Adobe, Suite Affinity
 
 ### What I'm doing recently
 
-* 📚 Study **programming language** in python, javascript, and html etc ...
+* 📚 Study Java programming language and VueJS framework
 * 🕹️ Consolidate **development skills** to refine my <a href="https://mathieudamotalongo.fr/">🏠 Portfolio</a>
 * 🌐 Carry out personal projects for the **creation of an application** under ios
 
