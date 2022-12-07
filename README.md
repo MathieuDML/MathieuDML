@@ -22,7 +22,7 @@
 
 ### I like to work with
 
-* 🌐 Python, Django, JavaScript, VueJS
+* 🌐 Python, Django, JavaScript, React Native
 * 🕹️ Cinéma 4D, Blender, Solidworks
 * 🎨 Suite Adobe, Suite Affinity
 
