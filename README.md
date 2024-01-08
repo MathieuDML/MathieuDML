@@ -12,14 +12,14 @@
 
 🌐 On a daily basis, I explore diverse realms of web and mobile development. I deploy my skills in design and development while refining my expertise in Scrum methodology for management and organization.
 
-🧀 Between lines of code, you'll probably find me pulling out the raclette machine 🧀
+🧀 Between lines of code, you'll probably find me pulling out the raclette machine. 🧀
 
 ### My Journey
 
-- 🎓 Currently pursuing a **Master's in Lead Development**
-- 🖥️ Advanced degree in web and mobile development
-- 📚 BTS SIO with a focus on SLAM, specialized in **software solution development**
-- 📖 Baccalaureate in **STI2D**
+- 🎓 Currently pursuing a **Master's in Lead Development**.
+- 🖥️ Advanced degree in web and mobile development.
+- 📚 BTS SIO with a focus on SLAM, specialized in **software solution development**.
+- 📖 Baccalaureate in **STI2D**.
 
 ### My Skills and Favorite Tools
 
