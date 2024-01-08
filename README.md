@@ -4,38 +4,41 @@
 <h3 align="center"><b><a href="https://mathieudamotalongo.fr/">🏠 Portfolio</a></b> • <b><a href="https://www.behance.net/Mathieu_DML">📰 Behance</a></b> • <b><a href="https://www.linkedin.com/in/mathieu-da-mota-longo/">👔 LinkedIn</a></b></h3>
 
 
-### About me
+### About Me
 
-* 🙌🏻 Hello, web player strip from all walks of life!
+🚀 **Full Stack Developer** and aspiring **Lead Dev**,
 
-* My name is Mathieu DA MOTA LONGO - the Chief Happiness Dealer ☀️. Currently in BTS SIO option SLAM at the Esiee-IT school and in the process of bringing out the raclette machine 🧀. A young person in search of the most greedy challenge 🚀, whether in development or network.
+✈️ Soon, I will be heading to **Canada** to enhance my skills and explore new opportunities in the world.
 
-* I'll let you go explore the different projects available on Github. Beautiful day !
+🌐 On a daily basis, I explore diverse realms of web and mobile development. I deploy my skills in design and development while refining my expertise in Scrum methodology for management and organization.
 
-### It's me
+🧀 Between lines of code, you'll probably find me pulling out the raclette machine 🧀
 
-* 🎓Preparation of a Bac+3 license, **Advanced level mobile web developer** - ESIEE-IT / CODING FACTORY.
-* 📚 Bac+2 BTS IT **services to organizations in software solutions and business applications**, in training - ESIEE-IT.
-* 📖 Bachelor in **STI2D science and technology of industry and sustainable development** - Lycée Jean Perrin.
-* 🚀 Currently alternating in a computer and telecom services company, as a computer and telecom technician.
-* 💻 I love all the **design and development**.
+### My Journey
 
-### I like to work with
+- 🎓 Currently pursuing a **Master's in Lead Development**
+- 🖥️ Advanced degree in web and mobile development
+- 📚 BTS SIO with a focus on SLAM, specialized in **software solution development**
+- 📖 Baccalaureate in **STI2D**
 
-* 🌐 Python, Django, JavaScript, React Native
-* 🕹️ Cinéma 4D, Blender, Solidworks
-* 🎨 Suite Adobe, Suite Affinity
+### My Skills and Favorite Tools
 
-### What I'm doing recently
+- 💻 Languages: Python, JavaScript, Java, Swift, Kotlin.
+- 🛠️ Frameworks: React Native, Flutter, Django, VueJS, ViteJS.
+- 💾 Infrastructure: Linux Server, Windows Server, Firewall.
+- 🎨 Design: Adobe Suite, Affinity Suite, Blender.
+- 📈 Project management and agile methodologies.
 
-* 📚 Study Java programming language and VueJS framework
-* 🕹️ Consolidate **development skills** to refine my <a href="https://mathieudamotalongo.fr/">🏠 Portfolio</a>
-* 🌐 Carry out personal projects for the **creation of an application** under ios
+### My Recent Projects
 
-### My passions
+- 📱 Development of an iOS and Android application.
+- 🌍 Contribution to open source projects.
+- 👨🏻‍💻 Redesign of my <a href="https://mathieudamotalongo.fr/">🏠 Portfolio</a>.
 
-* 🎵 Music
-* 📷 Photography
-* 👨🏻‍💻 technology
-* 🎨 Design
-* 🎞️ Movies
+### What I'm Passionate About
+
+- 🎵 Discovering new musical genres.
+- 📷 Capturing unique moments through photography.
+- 🚀 Technology and innovation.
+- 🎨 UX/UI Design.
+- 🎞️ Travel.
