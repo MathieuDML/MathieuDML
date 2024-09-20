@@ -1,9 +1,6 @@
 <p align="center">
   <img src="header.png"></p>
 
-<h3 align="center"><b><a href="https://mathieudamotalongo.fr/">🏠 Portfolio</a></b> • <b><a href="https://www.behance.net/Mathieu_DML">📰 Behance</a></b> • <b><a href="https://www.linkedin.com/in/mathieu-da-mota-longo/">👔 LinkedIn</a></b></h3>
-
-
 ### About Me
 
 🚀 **Full Stack Developer** and aspiring **Lead Dev**,
