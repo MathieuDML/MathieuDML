@@ -30,7 +30,6 @@
 
 - 📱 Development of an iOS and Android application.
 - 🌍 Contribution to open source projects.
-- 👨🏻‍💻 Redesign of my <a href="https://mathieudamotalongo.fr/">🏠 Portfolio</a>.
 
 ### What I'm Passionate About
 
